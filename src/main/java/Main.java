@@ -9,4 +9,8 @@ public class Main {
         System.out.println("Branch -> new branch");
     }
 
+    static int calc(int a,int b){
+        return a/b;
+    }
+
 }
